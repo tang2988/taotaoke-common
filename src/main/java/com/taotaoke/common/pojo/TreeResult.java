@@ -1,4 +1,4 @@
-package com.taotaoke.common.util;
+package com.taotaoke.common.pojo;
 
 public class TreeResult {
 

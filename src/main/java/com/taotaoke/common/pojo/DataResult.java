@@ -1,7 +1,7 @@
 /**
  * 2019年1月25日Administrator
  */
-package com.taotaoke.common.util;
+package com.taotaoke.common.pojo;
 
 import java.util.List;
 
